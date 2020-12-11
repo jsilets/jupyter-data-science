@@ -1,2 +1,0 @@
-# jupyter-data-science
- 
